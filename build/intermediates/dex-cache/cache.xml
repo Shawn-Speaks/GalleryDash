@@ -3,39 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_5f82f78ae85c0af58595362ead0d17a80443b4ed/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_225bf7d01883f6c279e676d679e3875dadf8d215/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
         <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_2a0ce3f24deaf2f8d64b5671e47d8ff600de19d9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_59c73d35fb251b476a54736e9d27cce37db6bdf3/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,39 +21,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_f748cd1e667073db4977fe4d29f0cfaea7d12a70/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_ccccf212451470f24aa7845db00016a354ebda26/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
         <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_147b202a2ade01ce9b35f7c03043bff7f146917f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_24fb1eb3499329f9608028a09f3b6d210066e600/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -93,12 +39,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_387d2e0f212127d552c6127db89a3af4db1b8dc9/classes.dex" />
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_558f1d248536f406631a712912527957b5d51330/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -108,15 +54,6 @@
         revision="25.0.1"
         sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
         <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_0147757b5034c143d1418b833f8b32ea9814603e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_558f1d248536f406631a712912527957b5d51330/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -138,30 +75,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_26230de0ae7d02e7721edc3771385c27b51dd38a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
         <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_42d41e5298e1528e087e1b54d231fb90d64e69c8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_de13fb83adff822fdefd2ed92e268a67f491e683/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -183,15 +102,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="a448a09dccd93981fedc48aed3bbe5619514a34c">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_69902eeb530242633127f14681374a6c32ad5651/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -210,75 +120,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_dbdd0774ddb16898aba736a78104567d4b5684dd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_48be50dc4573ab391760ce5ad97719a6f3afa557/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_86d7c1db08fbd93d89145fd31692303dac37c097/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/shawnspeaks/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
         <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_7d23349879727610c01153a9fa4864555e6d4780/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_a21a839d1263f894de11ea9afbeb94c147bc838d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_421120e881e5a60e2a0a22285295585e7e05f363/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_35c0812b6ab767e129debee27cfcc06e28e18bd8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_a25da434131ad701ce0cab351df936bb7f075d7e/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -300,39 +147,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_9c3c0ff8a174f144fbc12113d4a74ed5a33ce3e6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
         <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_67762949a7fc0bd70c3678c1ed79b1348920e6b7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_85b5450535371c3764a333be5da6b3734656e55b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_7897f127bdf08c18bb311a3e252a679a55ed96a9/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -354,15 +174,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_a7664694d569c0df553ee78631d93d5394663c79/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/shawnspeaks/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
         jumboMode="true"
         optimize="true"
@@ -372,21 +183,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_a7664694d569c0df553ee78631d93d5394663c79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
         <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_abe7661ee824818512b055b89f76b4582f40499e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_e96dac40bda5a24aeb8783220c977c49c1a28548/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -444,15 +255,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_0ddc4a41c338b552d7a8681dee6fe0ef86c73cc3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -462,12 +264,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_6e86d7b798aad45fda2ff12c58f29967f059835f/classes.dex" />
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_0ddc4a41c338b552d7a8681dee6fe0ef86c73cc3/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -477,6 +279,267 @@
         revision="25.0.1"
         sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
         <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_eeeee714bfb41919ba26235fa8024a93dc0f7d9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_3bf5cfcc66985e764b0c482b21476bcf32eaddb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_499349983ea180ffa374e32db7dc8824de0caf7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_3de941ffaea025884d4afdebe70fb3925e409b2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_2a75a4e436994e0bbd0ac64f90fac54f139a3e6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_ed30b911d01ed2150e15912794f2a0842ed1c754/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_d7bb0d6be55424c8615783434ba60334103ac5e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_d76ffb2c42ba8b310265a58c974caee625536a81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_5f82f78ae85c0af58595362ead0d17a80443b4ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_225bf7d01883f6c279e676d679e3875dadf8d215/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_59c73d35fb251b476a54736e9d27cce37db6bdf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_f748cd1e667073db4977fe4d29f0cfaea7d12a70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_ccccf212451470f24aa7845db00016a354ebda26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_24fb1eb3499329f9608028a09f3b6d210066e600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_387d2e0f212127d552c6127db89a3af4db1b8dc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_26230de0ae7d02e7721edc3771385c27b51dd38a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_de13fb83adff822fdefd2ed92e268a67f491e683/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a448a09dccd93981fedc48aed3bbe5619514a34c">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_69902eeb530242633127f14681374a6c32ad5651/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_dbdd0774ddb16898aba736a78104567d4b5684dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_48be50dc4573ab391760ce5ad97719a6f3afa557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_86d7c1db08fbd93d89145fd31692303dac37c097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_a21a839d1263f894de11ea9afbeb94c147bc838d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_421120e881e5a60e2a0a22285295585e7e05f363/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_35c0812b6ab767e129debee27cfcc06e28e18bd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_a25da434131ad701ce0cab351df936bb7f075d7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_9c3c0ff8a174f144fbc12113d4a74ed5a33ce3e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_85b5450535371c3764a333be5da6b3734656e55b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_7897f127bdf08c18bb311a3e252a679a55ed96a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_e96dac40bda5a24aeb8783220c977c49c1a28548/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_6e86d7b798aad45fda2ff12c58f29967f059835f/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -493,7 +556,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="0dd4cfd03d17beb886ac5fb394de03ae28f6a5d4">
+        sha1="ccab0bf02753eafcf2a0d462b3301eba164d5a50">
         <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e34f6f763312ed4f4d7adcc77b545a57dee382c2/classes.dex" />
     </item>
     <item
@@ -525,48 +588,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_3bf5cfcc66985e764b0c482b21476bcf32eaddb3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_499349983ea180ffa374e32db7dc8824de0caf7c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
         <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_0039216928905590612ef750624524fcd55b0ecf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_3de941ffaea025884d4afdebe70fb3925e409b2b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_2a75a4e436994e0bbd0ac64f90fac54f139a3e6e/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -588,15 +615,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_ed30b911d01ed2150e15912794f2a0842ed1c754/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -615,30 +633,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_d7bb0d6be55424c8615783434ba60334103ac5e8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
         <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_4b0415bc6734484f7a06e730d392a8e19d9900cf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shawnspeaks/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_d76ffb2c42ba8b310265a58c974caee625536a81/classes.dex" />
     </item>
 
 </items>
