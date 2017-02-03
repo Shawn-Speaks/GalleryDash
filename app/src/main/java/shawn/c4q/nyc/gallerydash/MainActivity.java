@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 import shawn.c4q.nyc.gallerydash.Shawn.ShawnModels.LocationCheck.CheckIn;
 import shawn.c4q.nyc.gallerydash.leigh.BottomNavigationViewHelper;
-import shawn.c4q.nyc.gallerydash.leigh.MuseumListFragment;
+import shawn.c4q.nyc.gallerydash.leigh.museumviewpager.MuseumParentFragment;
 
 public class MainActivity extends AppCompatActivity  {
 
@@ -24,14 +24,13 @@ public class MainActivity extends AppCompatActivity  {
     CheckIn checkIn;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initNavBar();
         ActivityCompat.requestPermissions(this, new String[] {Manifest.permission.ACCESS_FINE_LOCATION}, 1);
-
-
     }
 
     private void initNavBar() {
@@ -46,16 +45,16 @@ public class MainActivity extends AppCompatActivity  {
                 if(item.getItemId() == previousItemId){
                     return true; //stops user from clicking the same item in navigation bar (stops multiple fragment/retrofit/etc calls)
                 }
-
                 switch (item.getItemId()) {
                     case (R.id.action_edit_avatar):
 
                         break;
 
                     case (R.id.action_museum_list):
-                        getFragmentManager().beginTransaction()
-                                .replace(R.id.fragment_main_activity, new MuseumListFragment())
+                        getSupportFragmentManager().beginTransaction()
+                                .replace(R.id.fragment_main_activity, new MuseumParentFragment())
                                 .commit();
+
                                 break;
                     case (R.id.action_check_in):
                         if(isDeviceOnline()) {
@@ -64,11 +63,11 @@ public class MainActivity extends AppCompatActivity  {
                         }else
                             Toast.makeText(MainActivity.this, "Feature not available offline", Toast.LENGTH_SHORT).show();
                         break;
+
                     case (R.id.action_badge_gallery):
 
 
                         break;
-
                 }
                 previousItemId = item.getItemId();
                 return true;

@@ -30,10 +30,8 @@ public class BottomNavigationViewHelper {
             for (int i = 0; i < menuView.getChildCount(); i++) {
                 //get the item in the menu
                 BottomNavigationItemView item = (BottomNavigationItemView) menuView.getChildAt(i);
-                //noinspection RestrictedApi
                 item.setShiftingMode(false);//disable shift mode on the menu item
                 // set once again checked value, so view will be updated
-                //noinspection RestrictedApi
                 item.setChecked(item.getItemData().isChecked()); //sets items so that they all display the text
             }
         } catch (NoSuchFieldException e) { //catches in case the field doesnt exist
