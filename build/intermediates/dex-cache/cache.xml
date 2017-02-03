@@ -12,6 +12,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_7f2004c9fb240c58ed5cf022a3210ad4fad884f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_d6314d85338afd67f1e594fe9c08b11ddfcc6250/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/leighdouglas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
         jumboMode="true"
         optimize="true"
@@ -43,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="9bc159c40241b8fd701c94d5f3a3e2b77be95fa7">
+        sha1="c7385db02bc3cccbbb03716c1fe8d091389a4f76">
         <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_814e912f3d5e67dcbca8f7597ff7aac1d66bba68/classes.dex" />
     </item>
     <item
@@ -52,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="22938592ac1f9de6b01489cbde243df81f240b26">
+        sha1="80f1f94050702f62b19b7bf0af3fbdc2b4abcbe0">
         <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d3362b68589b152077cee4c9b07f9762c1efbd21/classes.dex" />
     </item>
     <item
@@ -147,12 +165,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_466f739e1e504e0d8330e62a8c701f9d0fab8152/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_227553261a06c2bac1d6da217f6ac3f7f7594aef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_d1a83ba409264d65ce58b016d21eec08fb045ffc/classes.dex" />
     </item>
     <item
         is-multidex="true"

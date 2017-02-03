@@ -7,11 +7,12 @@ import android.os.Bundle;
 import android.view.MenuItem;
 
 import shawn.c4q.nyc.gallerydash.leigh.BottomNavigationViewHelper;
-import shawn.c4q.nyc.gallerydash.leigh.MuseumListFragment;
+import shawn.c4q.nyc.gallerydash.leigh.museumviewpager.MuseumParentFragment;
 
 public class MainActivity extends AppCompatActivity {
 
     BottomNavigationView bttmNavBar;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,14 +34,19 @@ public class MainActivity extends AppCompatActivity {
                 switch (item.getItemId()) {
                     case (R.id.action_edit_avatar):
 
+
+                        break;
                     case (R.id.action_museum_list):
-                        getFragmentManager().beginTransaction()
-                                .replace(R.id.fragment_main_activity, new MuseumListFragment())
+                        getSupportFragmentManager().beginTransaction()
+                                .replace(R.id.fragment_main_activity, new MuseumParentFragment())
                                 .commit();
+                        break;
                     case (R.id.action_check_in):
 
+                        break;
                     case (R.id.action_badge_gallery):
 
+                        break;
                 }
                 return true;
             }
