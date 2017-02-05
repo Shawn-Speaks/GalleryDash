@@ -32,7 +32,7 @@ public class PlacesRetrofitCall {
 
         final String[] VENUE_TYPE_ARRAY = {"museum"};
         final String API_KEY = "AIzaSyDvMOgWEVV1tAANpjDO05ajNJ6ZSkLfuQk";
-        final String radiusFromCurrentLocation = "50";
+        final String radiusFromCurrentLocation = "1500";
         mUrlBuilder = GooglePlacesUrlJsonBuilder.getInstance();
 
         String locationString = String.valueOf(location.getLatitude())+","+String.valueOf(location.getLongitude());
@@ -49,9 +49,9 @@ public class PlacesRetrofitCall {
                 results = gPlaceResponse.getResults();
                 if(gPlaceResponse.getStatus().equals("ZERO_RESULTS")){
                     Toast.makeText(mContext, "No museum nearby", Toast.LENGTH_SHORT).show();
-
+                if(results.size() != 0) {
                     ConvertMuseumsNameToID converter = new ConvertMuseumsNameToID(results.get(0).getName());
-
+                }
 //                    converter.museumID          NUMBER
 
                 }else
