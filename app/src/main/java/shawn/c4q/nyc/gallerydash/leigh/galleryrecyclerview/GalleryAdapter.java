@@ -13,7 +13,7 @@ import shawn.c4q.nyc.gallerydash.R;
  */
 
 public class GalleryAdapter extends RecyclerView.Adapter<GalleryViewHolder>{
-    ArrayList<Drawable> badges = new ArrayList<>();
+    int[] badges = new int[15];
 
     @Override
     public GalleryViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
@@ -23,12 +23,11 @@ public class GalleryAdapter extends RecyclerView.Adapter<GalleryViewHolder>{
 
     @Override
     public void onBindViewHolder(GalleryViewHolder holder, int position) {
-        Drawable badge = badges.get(position);
-        holder.bind(badge);
+        holder.bind();
     }
 
     @Override
     public int getItemCount() {
-        return badges.size();
+        return badges.length;
     }
 }
