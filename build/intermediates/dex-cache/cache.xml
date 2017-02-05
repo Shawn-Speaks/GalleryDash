@@ -3,12 +3,246 @@
 
     <item
         is-multidex="true"
-        jar="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/leighdouglas/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="0ee4744a3eb6c93c88c7af92dd25a19bb95d77ec">
-        <dex dex="/Users/shawnspeaks/Desktop/PersonalProject/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e34f6f763312ed4f4d7adcc77b545a57dee382c2/classes.dex" />
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_835763c6b1d3943f5729b1f89488e75c6d797a5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_7f2004c9fb240c58ed5cf022a3210ad4fad884f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_d6314d85338afd67f1e594fe9c08b11ddfcc6250/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_0f437f97838287f66c05f10256c476ccadc66bc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_ea4ad50eb26af3d6538029c3ec3f50c1de7f2092/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_bcfdcf62a7dc5304c4f072f4b0267bed3b1aa1e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fd3cbb1a5411f54db7f9fa811e4d8b8f949ec3e7">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_814e912f3d5e67dcbca8f7597ff7aac1d66bba68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6135a3e727a828081bb8e6fd50c210362dd6ce76">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d3362b68589b152077cee4c9b07f9762c1efbd21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_c9c48bd6b8eef5a5d781fe9f75f7246845626faf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_c26623f340bd016c6d278f91bcab9d0c5ac448a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_8b85da9652d695170ba0044280581ca8b88a2149/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_56e33b2fbeafb884ddbcae19134d3a51d0d919b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_2027729c01678c83037cec5a8c8470a5ea5ae00e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_47bf0da039c8b1306733d6cde2b7516b56f303be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_51d5e6309bbd04dabac60ac7c3fdf2262e5a4779/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_9c0f7c5ccfd2c5fa2109e8a2adc04af65040b158/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_7f844dbc73bda65a42a6cefcdab7fdc49161d20d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_508d4c451852db947b3488a63d2a331511c60a09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_466f739e1e504e0d8330e62a8c701f9d0fab8152/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_227553261a06c2bac1d6da217f6ac3f7f7594aef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_d1a83ba409264d65ce58b016d21eec08fb045ffc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_4e896c64140c867896984c3f81eb37f8dbd527ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.0_70b79d8d69c170c7b5a2986aabce2ac59b84aadd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_6e0fce3cca3aa3e31a01bbc08399b6cfa717b8d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_93392d2da5979e26821a5a679925ff633d3f2c59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_96901f8ef369ea9760e7ed7a50702dd096af5a61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leighdouglas/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/leighdouglas/Desktop/accesscode/GalleryDash/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_55e3c561c2b1e202fc467a17904a46ed3e4d1bb0/classes.dex" />
     </item>
 
 </items>
