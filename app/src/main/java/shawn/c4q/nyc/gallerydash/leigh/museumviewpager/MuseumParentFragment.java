@@ -1,10 +1,14 @@
 package shawn.c4q.nyc.gallerydash.leigh.museumviewpager;
 
+import android.Manifest;
 import android.app.Activity;
+import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.design.widget.TabLayout;
+import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.Fragment;
+import android.support.v4.content.ContextCompat;
 import android.support.v4.view.ViewPager;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -39,10 +43,12 @@ public class MuseumParentFragment extends Fragment {
     private MuseumViewPagerAdapter museumVPAdapter;
     static String TAG = "Retrofit";
 
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.museum_parent_fragment, container, false);
+
         tl = (TabLayout) view.findViewById(R.id.museum_tabs);
         vp = (CustomViewPager) view.findViewById(R.id.museum_pages);
         museumVPAdapter = new MuseumViewPagerAdapter(getChildFragmentManager());
