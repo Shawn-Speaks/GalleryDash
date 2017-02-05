@@ -33,6 +33,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         initNavBar();
         ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.ACCESS_FINE_LOCATION}, 1);
+
+        if (savedInstanceState == null) {
+            getSupportFragmentManager().beginTransaction()
+                    .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
+                    .replace(R.id.fragment_main_activity, new MuseumParentFragment())
+                    .commit();
+        }
     }
 
     private void initNavBar() {
@@ -49,12 +56,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 switch (item.getItemId()) {
                     case (R.id.action_edit_avatar):
-//                        getSupportFragmentManager().beginTransaction()
-//                                .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
-//                                .replace(R.id.fragment_main_activity, new MuseumParentFragment())
-//                                .commit();
-//                        bttmNavBar.setBackgroundColor(getResources().getColor(R.color.colorAccent));
-//                        getWindow().setStatusBarColor(getResources().getColor(R.color.colorAccent));
+
                         break;
 
                     case (R.id.action_museum_list):
@@ -62,9 +64,6 @@ public class MainActivity extends AppCompatActivity {
                                 .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
                                 .replace(R.id.fragment_main_activity, new MuseumParentFragment())
                                 .commit();
-                        bttmNavBar.setBackgroundColor(getResources().getColor(R.color.colorPrimary));
-                        getWindow().setStatusBarColor(getResources().getColor(R.color.colorPrimary));
-
                         break;
                     case (R.id.action_check_in):
                         if (isDeviceOnline()) {
@@ -79,9 +78,6 @@ public class MainActivity extends AppCompatActivity {
                                 .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
                                 .replace(R.id.fragment_main_activity, new GalleryFragment())
                                 .commit();
-                        bttmNavBar.setBackgroundColor(getResources().getColor(R.color.colorPrimary));
-                        getWindow().setStatusBarColor(getResources().getColor(R.color.colorPrimary));
-
                         break;
                 }
                 previousItemId = item.getItemId();
