@@ -9,6 +9,7 @@ import java.util.Random;
 
 import nl.qbusict.cupboard.QueryResultIterable;
 import shawn.c4q.nyc.gallerydash.jon.avatarcreator.model.Avatar;
+import shawn.c4q.nyc.gallerydash.jon.avatarcreator.model.Museum;
 
 import static nl.qbusict.cupboard.CupboardFactory.cupboard;
 
@@ -32,9 +33,23 @@ public class SqlHelper {
         return avatars;
     }
 
+    public static List<Museum> selectAllMuseums(SQLiteDatabase db) {
+        List<Museum> museums = new ArrayList<>();
+        try {
+            QueryResultIterable<Museum> itr = cupboard().withDatabase(db).query(Museum.class).query();
+            for (Museum museum : itr) {
+                museums.add(museum);
+            }
+            itr.close();
+        } catch (Exception e) {
+            Log.e("Museum List", "selectAllMuseums: ", e);
+        }
+        return museums;
+    }
+
     public static Avatar getAvatar(SQLiteDatabase db) {
         Random rand = new Random();
-        Avatar avatar = cupboard().withDatabase(db).get(Avatar.class);
+        Avatar avatar = cupboard().withDatabase(db).get(Avatar.class, rand.nextInt(20));
         return avatar;
     }
 }
