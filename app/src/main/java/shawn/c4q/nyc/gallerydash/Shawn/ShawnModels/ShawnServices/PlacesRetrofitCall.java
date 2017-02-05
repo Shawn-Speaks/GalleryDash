@@ -11,6 +11,7 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 import shawn.c4q.nyc.gallerydash.Shawn.ShawnModels.GooglePlacesResponse;
+import shawn.c4q.nyc.gallerydash.Shawn.ShawnModels.LocationCheck.ConvertMuseumsNameToID;
 import shawn.c4q.nyc.gallerydash.Shawn.ShawnModels.Results;
 
 import static android.content.ContentValues.TAG;
@@ -24,6 +25,7 @@ public class PlacesRetrofitCall {
     private ArrayList<Results> results = new ArrayList<>();
     private GooglePlacesUrlJsonBuilder mUrlBuilder;
     private Context mContext;
+    public int museumID;
 
     public PlacesRetrofitCall(Context context, Location location) {
         this.mContext = context;
@@ -47,8 +49,15 @@ public class PlacesRetrofitCall {
                 results = gPlaceResponse.getResults();
                 if(gPlaceResponse.getStatus().equals("ZERO_RESULTS")){
                     Toast.makeText(mContext, "No museum nearby", Toast.LENGTH_SHORT).show();
+
+                    ConvertMuseumsNameToID converter = new ConvertMuseumsNameToID(results.get(0).getName());
+
+//                    converter.museumID          NUMBER
+
                 }else
                     Toast.makeText(mContext, "You're close to " + results.get(0).getName(), Toast.LENGTH_SHORT).show();
+
+
 
 
             }
@@ -59,4 +68,5 @@ public class PlacesRetrofitCall {
             }
         });
     }
+
 }
