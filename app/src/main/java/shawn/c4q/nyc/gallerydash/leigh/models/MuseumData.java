@@ -6,8 +6,13 @@ package shawn.c4q.nyc.gallerydash.leigh.models;
 
 public class MuseumData {
     MuseumProperties properties;
+    MuseumGeometry geometry;
 
     public MuseumProperties getProperties(){
         return properties;
+    }
+
+    public MuseumGeometry getGeometry() {
+        return geometry;
     }
 }

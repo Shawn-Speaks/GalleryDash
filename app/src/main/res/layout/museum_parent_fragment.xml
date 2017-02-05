@@ -9,7 +9,10 @@
         android:id="@+id/museum_tabs"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:tabMode="fixed" />
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@android:color/white"
+        app:tabTextColor="@color/museum_list_card_background"
+        android:background="@color/colorPrimaryDark"/>
 
     <shawn.c4q.nyc.gallerydash.leigh.museumviewpager.CustomViewPager
         android:id="@+id/museum_pages"
