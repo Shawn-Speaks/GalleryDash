@@ -1,5 +1,6 @@
 package shawn.c4q.nyc.gallerydash.leigh.museumrecyclerview;
 
+import android.graphics.Typeface;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.TextView;
@@ -17,6 +18,8 @@ public class MuseumViewHolder extends RecyclerView.ViewHolder {
     public MuseumViewHolder(View itemView) {
         super(itemView);
         museumTitle = (TextView) itemView.findViewById(R.id.museum_name);
+        Typeface lanenar = Typeface.createFromAsset(museumTitle.getContext().getApplicationContext().getAssets(), "fonts/lanenar.ttf");
+        museumTitle.setTypeface(lanenar);
     }
 
     public void bind(MuseumData museumData){

@@ -6,6 +6,7 @@
         android:enabled="true"
         android:icon="@android:drawable/ic_menu_edit"
         android:title="@string/text_edit_avatar"
+        app:itemBackground="@color/black"
         app:showAsAction="always" />
     <item
         android:id="@+id/action_museum_list"

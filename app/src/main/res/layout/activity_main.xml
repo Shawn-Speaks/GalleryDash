@@ -7,6 +7,13 @@
     android:layout_height="match_parent"
     tools:context="shawn.c4q.nyc.gallerydash.MainActivity">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.6"
+        android:background="@drawable/museumbackground1"
+        />
+
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/main_bttm_navbar"
         android:layout_width="match_parent"
@@ -19,6 +26,7 @@
     <FrameLayout
         android:id="@+id/fragment_main_activity"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:layout_above="@id/main_bttm_navbar" />
 
 </RelativeLayout>
