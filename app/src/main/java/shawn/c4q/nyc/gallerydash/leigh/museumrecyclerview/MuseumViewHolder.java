@@ -18,8 +18,8 @@ public class MuseumViewHolder extends RecyclerView.ViewHolder {
     public MuseumViewHolder(View itemView) {
         super(itemView);
         museumTitle = (TextView) itemView.findViewById(R.id.museum_name);
-        Typeface lanenar = Typeface.createFromAsset(museumTitle.getContext().getApplicationContext().getAssets(), "fonts/lanenar.ttf");
-        museumTitle.setTypeface(lanenar);
+        Typeface robotoreg = Typeface.createFromAsset(museumTitle.getContext().getApplicationContext().getAssets(), "fonts/WalkwaySemiBold.ttf");
+        museumTitle.setTypeface(robotoreg);
     }
 
     public void bind(MuseumData museumData){

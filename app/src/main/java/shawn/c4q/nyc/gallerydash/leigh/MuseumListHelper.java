@@ -54,6 +54,30 @@ public class MuseumListHelper {
                 case "Museum of Contemporary African Diasporan Arts (MoCADA)":
                     temp.add(data);
                     break;
+                case "Solomon R. Guggenheim Museum":
+                    temp.add(data);
+                    break;
+                case "Whitney Museum of American Art":
+                    temp.add(data);
+                    break;
+                case "Brooklyn Museum":
+                    temp.add(data);
+                    break;
+                case "Frick Collection":
+                    temp.add(data);
+                    break;
+                case "Rubin Museum of Art":
+                    temp.add(data);
+                    break;
+                case "New Museum of Contemporary Art":
+                    temp.add(data);
+                    break;
+                case "American Museum of Natural History":
+                    temp.add(data);
+                    break;
+                case "P.S. 1 Contemporary Art Center":
+                    temp.add(data);
+                    break;
             }
         }
         return temp;

@@ -51,11 +51,32 @@ public class MuseumMapFragment extends Fragment implements MuseumParentFragment.
                 LatLng musAfricanArt = new LatLng(40.74634173827231, -73.92822391104288);
                 LatLng comicAndCartoon = new LatLng(40.7247979456424, -73.99670247583494);
                 LatLng musAfricanDiaspora = new LatLng(40.68524514383062, -73.97442477664784);
+                LatLng gug = new LatLng(40.78300947618501,-73.95891102040586);
+                LatLng whit = new LatLng(40.773407292902185, -73.96383434736195);
+                LatLng bkmus = new LatLng(40.67108321212629,-73.96358506797661);
+                LatLng frick = new LatLng(40.77105465350546, -73.96708040539806);
+                LatLng rubin = new LatLng(40.74002038014153, -73.99779152534921);
+                LatLng newmuseum = new LatLng(40.722346701845474,-73.99283879250072);
+                LatLng nathistory = new LatLng(40.78082623457644,-73.97364816377815);
+                LatLng ps1 = new LatLng(40.74583946863492, -73.94621241792795);
+                LatLng moma = new LatLng(40.76118664102449, -73.97700363152086);
+
 
                 mMap.addMarker(new MarkerOptions().position(theMet).title("Metropolitan Museum of Art"));
                 mMap.addMarker(new MarkerOptions().position(musAfricanArt).title("Museum of African Art"));
                 mMap.addMarker(new MarkerOptions().position(comicAndCartoon).title("Museum of Comic and Cartoon Art"));
                 mMap.addMarker(new MarkerOptions().position(musAfricanDiaspora).title("Museum of Contemporary African Diaspora Art"));
+                mMap.addMarker(new MarkerOptions().position(gug).title("Solomon R. Guggenheim Museum"));
+                mMap.addMarker(new MarkerOptions().position(whit).title("Whitney Museum of American Art"));
+                mMap.addMarker(new MarkerOptions().position(bkmus).title("Brooklyn Museum"));
+                mMap.addMarker(new MarkerOptions().position(frick).title("Frick Collection"));
+                mMap.addMarker(new MarkerOptions().position(rubin).title("Rubin Museum of Art"));
+                mMap.addMarker(new MarkerOptions().position(newmuseum).title("New Museum of Contemporary Art"));
+                mMap.addMarker(new MarkerOptions().position(nathistory).title("American Museum of Natural History"));
+                mMap.addMarker(new MarkerOptions().position(ps1).title("P.S. 1 Contemporary Art Center"));
+                mMap.addMarker(new MarkerOptions().position(moma).title("Museum of Modern Art (MoMA)"));
+
+
 
                 CameraPosition cameraPosition = new CameraPosition.Builder().target(theMet).zoom(12).build();
                 googleMap.animateCamera(CameraUpdateFactory.newCameraPosition(cameraPosition));

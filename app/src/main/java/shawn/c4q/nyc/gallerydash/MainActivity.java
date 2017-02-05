@@ -16,6 +16,7 @@ import android.widget.Toast;
 
 import shawn.c4q.nyc.gallerydash.Shawn.ShawnModels.LocationCheck.CheckIn;
 import shawn.c4q.nyc.gallerydash.leigh.BottomNavigationViewHelper;
+import shawn.c4q.nyc.gallerydash.leigh.GalleryFragment;
 import shawn.c4q.nyc.gallerydash.leigh.museumviewpager.MuseumParentFragment;
 
 public class MainActivity extends AppCompatActivity {
@@ -48,12 +49,12 @@ public class MainActivity extends AppCompatActivity {
                 }
                 switch (item.getItemId()) {
                     case (R.id.action_edit_avatar):
-                        getSupportFragmentManager().beginTransaction()
-                                .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
-                                .replace(R.id.fragment_main_activity, new MuseumParentFragment())
-                                .commit();
-                        bttmNavBar.setBackgroundColor(getResources().getColor(R.color.colorAccent));
-                        getWindow().setStatusBarColor(getResources().getColor(R.color.colorAccent));
+//                        getSupportFragmentManager().beginTransaction()
+//                                .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
+//                                .replace(R.id.fragment_main_activity, new MuseumParentFragment())
+//                                .commit();
+//                        bttmNavBar.setBackgroundColor(getResources().getColor(R.color.colorAccent));
+//                        getWindow().setStatusBarColor(getResources().getColor(R.color.colorAccent));
                         break;
 
                     case (R.id.action_museum_list):
@@ -74,7 +75,12 @@ public class MainActivity extends AppCompatActivity {
                         break;
 
                     case (R.id.action_badge_gallery):
-
+                        getSupportFragmentManager().beginTransaction()
+                                .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
+                                .replace(R.id.fragment_main_activity, new GalleryFragment())
+                                .commit();
+                        bttmNavBar.setBackgroundColor(getResources().getColor(R.color.colorPrimary));
+                        getWindow().setStatusBarColor(getResources().getColor(R.color.colorPrimary));
 
                         break;
                 }

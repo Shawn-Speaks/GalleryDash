@@ -21,7 +21,7 @@ public class GalleryViewHolder extends RecyclerView.ViewHolder {
         badgeImg = (ImageView) itemView.findViewById(R.id.badge_name_image);
     }
 
-    public void bind(Drawable drawable) {
-       // badgeImg.setImageResource(R.drawable.trophy);
+    public void bind() {
+       badgeImg.setImageResource(R.drawable.trophy2);
     }
 }
