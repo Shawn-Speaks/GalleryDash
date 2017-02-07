@@ -6,16 +6,28 @@ package shawn.c4q.nyc.gallerydash.jon.avatarcreator.model;
 
 public class Museum {
     private Long _id;
-    private String MuseumName;
+    private String museumName;
     private int numberOfVisits;
     private long timeLastVisted;
 
+    public Museum(){}
+
+    public Museum(String museumName, int numberOfVisits, long timeLastVisted) {
+        this.museumName = museumName;
+        this.numberOfVisits = 0;
+        this.timeLastVisted = timeLastVisted;
+    }
+
+    public Museum(String museumName) {
+        this.museumName = museumName;
+    }
+
     public String getMuseumName() {
-        return MuseumName;
+        return museumName;
     }
 
     public void setMuseumName(String museumName) {
-        MuseumName = museumName;
+        this.museumName = museumName;
     }
 
     public int getNumberOfVisits() {

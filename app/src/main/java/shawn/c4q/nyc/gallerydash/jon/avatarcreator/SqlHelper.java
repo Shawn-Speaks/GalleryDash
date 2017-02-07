@@ -47,6 +47,24 @@ public class SqlHelper {
         return museums;
     }
 
+    public Museum getMuseumByName(SQLiteDatabase db, String museumName) {
+        return cupboard().withDatabase(db).query(Museum.class).withSelection("museumName = ?", museumName).get();
+    }
+
+    public boolean onMuseumExistsInDatabase(SQLiteDatabase db, String museumName) {
+        return cupboard().withDatabase(db).query(Museum.class).withSelection("museumName = ?", museumName).get() != null;
+    }
+
+    public void incrementVisit(Museum museum){
+        int timesCheckedIn = museum.getNumberOfVisits() + 1;
+        museum.setNumberOfVisits(timesCheckedIn);
+    }
+
+    public void setTimeOfCurrentVisit(Museum museum){
+        long currentTime = System.currentTimeMillis();
+        museum.setTimeLastVisted(currentTime);
+    }
+
     public static Avatar getAvatar(SQLiteDatabase db) {
         Random rand = new Random();
         Avatar avatar = cupboard().withDatabase(db).get(Avatar.class, rand.nextInt(20));

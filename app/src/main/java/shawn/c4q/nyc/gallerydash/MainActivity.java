@@ -2,7 +2,6 @@ package shawn.c4q.nyc.gallerydash;
 
 import android.Manifest;
 import android.content.Context;
-import android.graphics.Color;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Bundle;
@@ -13,6 +12,8 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 import android.widget.Toast;
+
+import com.facebook.stetho.Stetho;
 
 import shawn.c4q.nyc.gallerydash.Shawn.ShawnModels.LocationCheck.CheckIn;
 import shawn.c4q.nyc.gallerydash.leigh.BottomNavigationViewHelper;
@@ -30,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Stetho.initializeWithDefaults(this);
         setContentView(R.layout.activity_main);
         initNavBar();
         ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.ACCESS_FINE_LOCATION}, 1);
