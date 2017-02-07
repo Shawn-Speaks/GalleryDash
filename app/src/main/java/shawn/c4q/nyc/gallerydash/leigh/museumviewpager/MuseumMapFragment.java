@@ -1,8 +1,12 @@
 package shawn.c4q.nyc.gallerydash.leigh.museumviewpager;
 
+import android.Manifest;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.os.Bundle;
+import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.Fragment;
+import android.support.v4.content.ContextCompat;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -46,7 +50,18 @@ public class MuseumMapFragment extends Fragment implements MuseumParentFragment.
             @Override
             public void onMapReady(GoogleMap googleMap) {
                 mMap = googleMap;
-                mMap.setMyLocationEnabled(true);
+
+                if (ContextCompat.checkSelfPermission(getActivity().getApplicationContext(), Manifest.permission.ACCESS_FINE_LOCATION)
+                        == PackageManager.PERMISSION_GRANTED) {
+                    mMap.setMyLocationEnabled(true);
+                } else {
+                    ActivityCompat.requestPermissions(getActivity(), new String[]{Manifest.permission.ACCESS_FINE_LOCATION}, 1);
+                    if (ContextCompat.checkSelfPermission(getActivity().getApplicationContext(), Manifest.permission.ACCESS_FINE_LOCATION)
+                            == PackageManager.PERMISSION_GRANTED){
+                        mMap.setMyLocationEnabled(true);
+                    }
+                }
+
                 LatLng theMet = new LatLng(40.77942354199044, -73.96345111145274);
                 LatLng musAfricanArt = new LatLng(40.74634173827231, -73.92822391104288);
                 LatLng comicAndCartoon = new LatLng(40.7247979456424, -73.99670247583494);
